@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    --light: rgba(255, 255, 255, 0.973);
+    --dark: rgb(16, 15, 20);
+}
+body{
+    background-color: var(--white) !important;
+    overflow: hidden;
+}
+path{
+    cursor: pointer;
+}
+path:hover{
+    opacity: 0.9;
+}
+.st0 {
+  fill: var(--dark);
+}
+svg{
+    width: 70vw;
+}
