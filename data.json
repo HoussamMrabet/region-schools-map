@@ -1,0 +1,2498 @@
+[
+    {
+        "id": "birejdid",
+        "region": "لبير الجديد",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة السنابل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة الداخلة",
+                    "imageLink": "image/الداخلة.png"
+                },
+                {
+                    "name": "مدرسة الفتح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة التهديب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة وادي المخازن",
+                    "imageLink": "image/المخازن.png"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية الساحل الاعدادية",
+                    "imageLink": ""
+                },
+                {
+                    "name": " ثانوية علال الفاسي الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": " ثانوية العيون الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية عقبة بن نافع التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية الإمام البخاري التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مفتاح النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ميثاق العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "سمول كاردن سكول",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مفتاح النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ميثاق العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "سمول كاردن سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أم هاجر",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "اع.العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مفتاح النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ميثاق العرفان",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "التقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المفتاح النورتقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ميثاق العرفان",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "alibenyoussef",
+        "region": "أولاد سيدي علي بن يوسف",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م العوجات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولا زيد",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية عبد الله العروي الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mettouh",
+        "region": "متوح",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة خميس متوح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م القياش",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لحميدات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بوعلالة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بير الكوارة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية عبد المالك السعدي الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": " ثانوية موسى ابن نصير التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "boulaawan",
+        "region": "بولعوان",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة بولعوان الجماعاتية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الحيرش",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الخريطات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بولعوان",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية القصيبة الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "zawiatlekwassem",
+        "region": "زاوية لقواسم",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م القواسم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الصمامدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بوخنين",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mekres",
+        "region": "مكرس",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م صقر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي بوعلام",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المساعدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م القيايلة",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "awladahssine",
+        "region": "أولاد احسين",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م الطواجنة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المنفلوطي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد احسين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م علي السبيطي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المعاشات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م دار بلكندولية",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية ابن باجة الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية عمر المختار التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "msidiismail",
+        "region": "سيدي اسماعيل",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مركزية سيدي اسماعيل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة مولاي احفيظ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة أولاد سي بوشعيب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م العطاعطة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م السواهلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي اسماعيل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بني سبع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م عبد الله بن الكامل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الكدارة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية سيدي اسماعيل الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية الجرف الأصفر التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "بداية أجيال",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "بداية أجيال",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "بداية أجيال",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "mawladaissa",
+        "region": "أولاد عيسى",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م سيدي امحمد بن مبارك",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م العزيزات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لكراربة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد غانم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أحد أولاد عيسى",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  وادي الذهب الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sidiabed",
+        "region": "سيدي عابد",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م قاسم الزهيري",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي امحمد بن داود",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الرواحلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد بن حمو",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الخراشفة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  سيدي عابد الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "zawiatsais",
+        "region": "زاوية سايس",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م الكنادلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م زاوية سايس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م العتايت",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  طارق بن زياد الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  البصيلات الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sebtsais",
+        "region": "سبت سايس",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م سوق سبت سايس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد عبد الله بن مسعود",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد الضالي",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "sidimohammed",
+        "region": "سيدي امحمد اخديم",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م سيدي امحمد اخديم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الغنيدرات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لحمامنة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  عبد الخالق الطريس الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "awladghanem",
+        "region": "أولاد غانم",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م سيدي امحمد بن مبارك",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م العزيزات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لكراربة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد غانم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي عبد الله بن يوسف",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  خالد بن الوليد الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية المسيرة التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "eljadida",
+        "region": "الجديدة",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة الغربة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة إبراهيم الروداني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة محمد الهنيوي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة للا زهرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة خديجة أم المومنين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المدرسة التطبيقية",
+                    "imageLink": "image/تطبيقية.png"
+                },
+                {
+                    "name": "مدرسة للا آمنة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة التريعي مختلطة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة التريعي بنات",
+                    "imageLink": "image/تريعي.png"
+                },
+                {
+                    "name": "مدرسة الفقيه الحطاب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مركزية الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة البريجة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة الفقيه التادلي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة المتنبي",
+                    "imageLink": "image/متنبي.png"
+                },
+                {
+                    "name": "مدرسة محمد الفاسي",
+                    "imageLink": "image/الفاسي.png"
+                },
+                {
+                    "name": "مدرسة للا سلمى",
+                    "imageLink": "image/سلمى.png"
+                },
+                {
+                    "name": "مدرسة المنار",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة ابن رشيق القيرواني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة عبد المومن الموحدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة محمد السادس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة سيدي بوزيد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة عبد الله بن الشرقي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة المقاومة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة سيدي موسى",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  حليمة السعدية الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  المجاهد العياشي الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  سيدي محمد بن عبد الله",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  عبد الكريم الخطابي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  محمد الحنصالي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  المنار",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  عبد الرحمان الدكالي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  3 مارس الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  السعادة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية  للا مريم",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": " ثانوية القاضي عياض التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الثانوية التأهيلية الرازي التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية محمد الرافعي التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية القدس التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية بئر أنزران التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الثانوية المتخصصة في مهن السياحة و الفندقة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية أبي شعيب الدكالي التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية ثانوية النجد التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية ابن خلدون التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "احسان 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزيتونة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أم الربيع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الصفاء الحسنية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "عش الملائكة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الرسالة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "2 أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "دعاء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الياس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التهذيب",
+                    "imageLink": "image/تهذيب.png"
+                },
+                {
+                    "name": "الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجزيرة سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التقوى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بافيو سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السنابل 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السنابل 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الفردوس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "شيراز",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أجيال الجوهرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ابن باديس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لافوازييه",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أمين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التفوق جينيور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اصباح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طلائع الغد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الغدير",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جزيرة مونتريال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكلمة الطيبة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الترميدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طازوطا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الاقامة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لافونتين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "نزار قباني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البدائل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بسمة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكمال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العبور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المناهل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "School Academy",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "Les Arbustes",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ياسمين الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "رودان اليت",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جيرمنال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بولاكورا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فضاء المعرفة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جاك ماجوريل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المسيرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "موندريان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأزهر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الاخلاص",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "صفدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الموهبة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لوهافر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أنترناسيونال سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فونتين بلو",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اياك نستعين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بانجيا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البلسم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ملروز",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فضاء النجاح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لا بليم ريشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لي جاردان فير",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بيغ هاغ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الألباب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فارين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العالمة",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "الملاك الازرق",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزيتونة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أم الربيع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الصفاء الحسنية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "عش الملائكة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "2 عش الملائكة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الرسالة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "2 أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "دعاء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الياس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجزيرة سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التهذيب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التقوى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بافيو سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السنابل 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السنابل 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الفردوس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "شيراز",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أجيال الجوهرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ابن باديس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لافوازييه",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أمين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التفوق جينيور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اصباح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "زهياز سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طلائع الغد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الغدير",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جزيرة مونتريال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكلمة الطيبة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الترميدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طازوطا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لافونتين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "نزار قباني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الاقامة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البدائل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بسمة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكمال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العبور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "Le Paradis des petits",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المناهل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "School Academy",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "Les Arbustes",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ياسمين الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "رودان اليت",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جيرمنال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بولاكورا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فضاء المعرفة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جاك ماجوريل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المسيرة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "موندريان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأزهر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الاخلاص",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "صفدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الموهبة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "امحمد الملكي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لوهافر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أنترناسيونال سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فونتين بلو",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اياك نستعين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بانجيا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البلسم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ملروز",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فضاء النجاح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لا بليم ريشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لي جاردان فير",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بيغ هاغ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الألباب",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فارين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العالمة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "الملاك الازرق",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزيتونة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 3",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أم الربيع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الصفاء الحسنية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "2 عش الملائكة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "دعاء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الياس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجزيرة سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السنابل 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "شيراز",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ابن باديس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لافوازييه",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أمين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اع.التفوق",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اصباح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جزيرة مونتريال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الترميدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طازوطا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "نزار قباني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكمال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "School Academy",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "رودان اليت",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البيليا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "موندريان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأزهر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لوهافر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "فضاء النجاح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أنترناسيونال سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بانجيا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البلسم",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "الملاك الازرق",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "احسان 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزيتونة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أم الربيع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أشبال ام القرى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الياس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجديدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أمين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اصباح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جزيرة مونتريال",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الترميدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "طازوطا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "نزار قباني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "School Academy",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البيليا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأزهر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المبادرة 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لوهافر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أنترناسيونال سكول",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بانجيا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البلسم",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "leghdira",
+        "region": "الغديرة",
+        "public": {
+            "primaire": [
+                {
+                    "name": "لوطا",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السلاطنة 1",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الطويليع",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد افرج",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م السلاطنة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكواكة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد موسى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "خنوسة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العيايطة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "قاضي حاجة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م بوشعيب الحريري",
+                    "imageLink": "image/حريري.png"
+                },
+                {
+                    "name": "النور",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد التالية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اربعاء هشتوكة",
+                    "imageLink": "image/اربعاء هش.png"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  الفرابي الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "lemharza",
+        "region": "المحارزة الساحل",
+        "public": {
+            "primaire": [
+                {
+                    "name": "الفلاح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الرياح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الهيالمة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "النزالة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "بئر الرتمة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الفتح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م السعادة",
+                    "imageLink": "image/سعادة.png"
+                },
+                {
+                    "name": "الرتيمة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العيايطة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد الحاج قاسم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المعاشات",
+                    "imageLink": "image/حريري.png"
+                },
+                {
+                    "name": "الشوفة الغاية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العسارة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م اولاد داود",
+                    "imageLink": "image/داود.png"
+                },
+                {
+                    "name": "م/م المخاطرة",
+                    "imageLink": "image/مخاطرة.png"
+                },
+                {
+                    "name": "م/م الحويرة",
+                    "imageLink": "image/حويرة.png"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  أنوال الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "chetouka",
+        "region": "اشتوكة",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م آيت حام",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الولجة",
+                    "imageLink": "image/ولجة.png"
+                },
+                {
+                    "name": "م/م سيدي امحمد موسى",
+                    "imageLink": "image/محمد موسى.png"
+                },
+                {
+                    "name": "م/م سيدي بونعايم",
+                    "imageLink": "image/بونعايم.png"
+                },
+                {
+                    "name": "م/م صبير الفاطمي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م اثنين شتوكة",
+                    "imageLink": "image/اثنين هش.png"
+                },
+                {
+                    "name": "م/م البلالات",
+                    "imageLink": "image/بلابلات.png"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  الورد الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية  إبن البناء التأهيلية",
+                    "imageLink": ""
+                }
+            ]
+        }
+    },
+    {
+        "id": "alibenhamdouch",
+        "region": "سيدي علي بن حمدوش",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م السلام",
+                    "imageLink": "image/سلام.png"
+                },
+                {
+                    "name": "الدابوزية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البراكة الحمراء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي فارس",
+                    "imageLink": "image/فارس.png"
+                },
+                {
+                    "name": "تكورانت",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لكواهي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي حميدة",
+                    "imageLink": "image/حميدة.png"
+                },
+                {
+                    "name": "بئر الفروج",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": " م/م سيدي ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "السرادنية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البكارة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة سيدي علي",
+                    "imageLink": "image/سيدي علي.png"
+                },
+                {
+                    "name": "م/م الطالع موسى",
+                    "imageLink": "image/طالع موسى.png"
+                },
+                {
+                    "name": "لكوارة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "سيدي علي الوزان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد حبيبي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التريعات المزاوير",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ايت الشيخ",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  الامام علي الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "awladrahmoun",
+        "region": "اولاد رحمون",
+        "public": {
+            "primaire": [
+                {
+                    "name": "لكماسة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مهولة 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البوعلاليين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "العسارة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م مهبولة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م السلامنة الدخلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م السلامنة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزرك",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": " المرازكة ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "شعبة الحوالة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "التريعات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "اولاد حميد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الدحوحة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م خمليش",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الزهاميل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الحوزية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الحراطة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لمبابلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الكريطات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لحرابلة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لحروشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "لعيابشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الركيوكين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م عبد الرحمان الداخل ",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية  مولاي الحسن الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "elhaouzia",
+        "region": "حوزية",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة تكني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة البحابحة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م البحابحة أولاد الحاج",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لهرابزة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الدحامنة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المجاهدين",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانويةابن طفيل الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "awladhamdan",
+        "region": "أولاد حمدان",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة عبد الكبير الخطيبي الجماعاتية",
+                    "imageLink": "image/خطيبي.png"
+                },
+                {
+                    "name": "م/م الطايشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م الخرارزة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م لوهاهسة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية الرشاد الاعدادية",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "moulayabdellah",
+        "region": "مولاي عبد الله",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة إبن طفيل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة الوفاق",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة مولاي عبد الله",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة المحيط",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة طه حسين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة أولاد سعد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ابن زيدون",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الخضر",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المريشات",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد المقدم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م القرية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م القراقشة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أحمد السرغيني",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية الفرح الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية ابن سينا الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية الإمام مسلم الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية شوقي التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية مولاي عبد الله التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "شيماء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المهدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "يحيى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمومة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الملاك الحارس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مصباح المعرفة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المهدي 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جورج كلود",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "شيماء",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المهدي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "أمغار",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "يحيى",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الطموح",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمومة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الملاك الحارس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مصباح المعرفة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "المهدي 2",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جورج كلود",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "جورج كلود",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "جورج كلود",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "siihssain",
+        "region": " سي احساين بن عبد الرحمان",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م بئر الببوش",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م واهلة",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "azemour",
+        "region": "أزمور",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة الإمام مالك",
+                    "imageLink": "image/مالك.png"
+                },
+                {
+                    "name": "مدرسة للا عائشة البحرية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة الفقيه الراضي",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة ابن حمديس",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة النخيل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة المهدي بن تومرت",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية البكري الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية للا حسناء الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية المصب الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية مولاي بوشعيب التأهيلية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية أم الربيع التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "الصايغ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمل الجديد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأخوين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجامعة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جان بيران",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "باشل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "سيونتفيك",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكيان",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "الأنوار",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البراعم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمل الجديد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأخوين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الجامعة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جان بيران",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "باشل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "سيونتفيك",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "استيبانيكو",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الكيان",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "الصايغ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البراعم",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأمل الجديد",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "الأخوين",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "الصايغ",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "البراعم",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cheaibat",
+        "region": " شعيبات",
+        "public": {
+            "primaire": [
+                {
+                    "name": "م/م بوملحة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م أولاد سي حمدون",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م المحارزة",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    },
+    {
+        "id": "awladferaj",
+        "region": " أولاد فرج",
+        "public": {
+            "primaire": [
+                {
+                    "name": "مدرسة الوحدة",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة عبدالله بن ياسين",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "مدرسة عبد الله الشفشاوني",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م سيدي ابهيليل",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "م/م العرابطة",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "ثانوية المسيرة الاعدادية",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "ثانوية محمد السادس الاعدادية",
+                    "imageLink": "image/"
+                }
+            ],
+            "lycee": [
+                {
+                    "name": "ثانوية 6 نونبر التأهيلية",
+                    "imageLink": "image/"
+                }
+            ]
+        },
+        "prive": {
+            "premiere": [
+                {
+                    "name": "افاق العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جسر التفوق",
+                    "imageLink": "image/"
+                }
+            ],
+            "primaire": [
+                {
+                    "name": "افاق العرفان",
+                    "imageLink": "image/"
+                },
+                {
+                    "name": "جسر التفوق",
+                    "imageLink": "image/"
+                }
+            ],
+            "college": [
+                {
+                    "name": "جسر التفوق",
+                    "imageLink": "image/"
+                }
+            ]
+        }
+    }
+]
